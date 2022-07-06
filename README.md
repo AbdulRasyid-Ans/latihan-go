@@ -1,5 +1,6 @@
 # README
 [![GO Icon](https://cdn.icon-icons.com/icons2/2699/PNG/128/golang_official_logo_icon_169092.png)](https://go.dev)
+
 Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **Scalable Web Service with Golang**.
 
 ## Sesi 1
