@@ -1,10 +1,18 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+	"strconv"
+)
 
 //Buat Function untuk mereturn bilangan prima dari 1 - max number
 func main() {
-	fmt.Println(listNumber(100, isPrime))
+	max := 1
+	if len(os.Args) > 1 {
+		max, _ = strconv.Atoi(os.Args[1])
+	}
+	fmt.Println(listNumber(max, isPrime))
 }
 
 func isPrime(num int) (result bool) {
