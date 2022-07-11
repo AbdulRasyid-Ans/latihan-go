@@ -24,7 +24,7 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 - Pointer
 - Struct
 - Exported & Unexported
-- **Assignment 1**
+- **[Assignment 1]**
 
 ## Sesi 4
 - Interface
@@ -67,3 +67,5 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 
 ## Sesi 12
 - **Final Project**
+
+[Assignment 1]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-1>
