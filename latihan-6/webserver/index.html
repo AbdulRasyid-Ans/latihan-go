@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>
+            {{.Title}}
+        </title>
+    </head>
+    <body>
+        {{range $d := .Data}}
+            <div style="border: 1px solid #000;">
+                <p>{{$d.Id}}</p>
+                <p>{{$d.Name}}</p>
+                <p>{{$d.Division}}</p>
+            </div>
+        {{end}}
+    </body>
+</html>
