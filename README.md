@@ -51,7 +51,7 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 - URL Parsing
 - Swaggo
 - PRACTICE - Build REST API Project Based
-- **Assignment 2**
+- **[Assignment 2]**
 
 ## Sesi 9
 - HTTP Request
@@ -69,3 +69,4 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 - **Final Project**
 
 [Assignment 1]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-1>
+[Assignment 2]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-2>
