@@ -60,7 +60,7 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 ## Sesi 10
 - Middleware
 - JSON Web Token
-- **Assignment 3**
+- **[Assignment 3]**
 
 ## Sesi 11
 - Unit Test
@@ -70,3 +70,4 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 
 [Assignment 1]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-1>
 [Assignment 2]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-2>
+[Assignment 3]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-3>
