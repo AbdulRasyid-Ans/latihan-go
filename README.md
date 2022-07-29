@@ -66,8 +66,9 @@ Repositori ini digunakan untuk menyimpan file latihan-latihan selama belajar **S
 - Unit Test
 
 ## Sesi 12
-- **Final Project**
+- **[Final Project]**
 
 [Assignment 1]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-1>
 [Assignment 2]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-2>
 [Assignment 3]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/assignment-3>
+[Final Project]: <https://github.com/AbdulRasyid-Ans/assignment-go/tree/master/Final%20Project>
